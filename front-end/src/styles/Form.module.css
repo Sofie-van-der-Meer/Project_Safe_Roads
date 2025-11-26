@@ -1,0 +1,10 @@
+.form {
+    background-color: black;
+}
+.formgroup {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 1rem;
+    width: max(400px, 50%);
+    margin: 1rem auto;
+}

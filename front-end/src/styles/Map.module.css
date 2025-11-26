@@ -1,0 +1,10 @@
+.map {
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: max(400px, 50vh);
+}
+.mapTile {
+    width: 100%;
+    height: calc(max(400px, 50vh) - 40px);
+}
